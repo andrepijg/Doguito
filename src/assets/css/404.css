@@ -1,0 +1,21 @@
+main {
+  margin: 100px;
+}
+
+.dog-image {
+  width: 100%;
+  max-width: 25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.notfound-text {
+  font-size: var(--font-size-not-found);
+  margin-bottom: 1rem;
+}
+
+.notfound-link {
+  color: var(--primary-color);
+}
+
+
